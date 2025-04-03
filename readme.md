@@ -27,7 +27,7 @@ Este proyecto es un bot automatizado que interactúa con tu cuenta de Instagram 
 1. Clona el repositorio:
 
    ```sh
-   git clone <URL-del-repositorio>
+   git clone [<URL-del-repositorio>](https://github.com/IsmaelManz2606/Instagram-Unfollow-Bot.git)
    ```
 
 2. Navega al directorio del proyecto:
